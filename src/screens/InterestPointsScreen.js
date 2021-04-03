@@ -9,6 +9,7 @@ const TrackListScreen = ({ navigation }) => {
 
   return (
     <SafeAreaView forceInset={{ top: 'always' }}>
+      
       <Text style={styles.text}>Interest Points</Text>
 
       <MasterList
